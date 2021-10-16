@@ -1,5 +1,3 @@
-setwd("D:\\tayyab\\TERI\\Semester 3\\Geocomputation\\Test3\\LC08_L1TP_146040_20200329_20200409_01_T1.tar\\tayyab")
-
 library(rgdal)
 library(raster)
 library(rpart)
